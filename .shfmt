@@ -1,0 +1,5 @@
+# shfmt configuration
+-i 2
+-bn
+-ci
+-sr

@@ -1,0 +1,4 @@
+# SPDX-License-Identifier: Apache-2.0 OR MIT
+severity=style
+enable=all
+disable=SC1090,SC1091
