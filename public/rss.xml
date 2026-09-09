@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untitled</title>
+    <link>https://sebastienrousseau.com/shell-config</link>
+    <description></description>
+    <atom:link href="https://sebastienrousseau.com/shell-config/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <item>
+      <title>Installation — @sebastienrousseau/shell-config</title>
+      <link>https://sebastienrousseau.com/shell-config/installation/</link>
+      <description>How to install and set up @sebastienrousseau/shell-config.</description>
+      <guid isPermaLink="true">https://sebastienrousseau.com/shell-config/installation/</guid>
+      <pubDate></pubDate>
+      <author></author>
+    </item>
+    <item>
+      <title>Model Context Protocol (MCP) — @sebastienrousseau/shell-config</title>
+      <link>https://sebastienrousseau.com/shell-config/mcp/</link>
+      <description>Model Context Protocol configuration for @sebastienrousseau/shell-config.</description>
+      <guid isPermaLink="true">https://sebastienrousseau.com/shell-config/mcp/</guid>
+      <pubDate></pubDate>
+      <author></author>
+    </item>
+    <item>
+      <title>Reference — @sebastienrousseau/shell-config</title>
+      <link>https://sebastienrousseau.com/shell-config/reference/</link>
+      <description>Reference specifications and options for @sebastienrousseau/shell-config.</description>
+      <guid isPermaLink="true">https://sebastienrousseau.com/shell-config/reference/</guid>
+      <pubDate></pubDate>
+      <author></author>
+    </item>
+    <item>
+      <title>Usage — @sebastienrousseau/shell-config</title>
+      <link>https://sebastienrousseau.com/shell-config/usage/</link>
+      <description>How to use and configure @sebastienrousseau/shell-config.</description>
+      <guid isPermaLink="true">https://sebastienrousseau.com/shell-config/usage/</guid>
+      <pubDate></pubDate>
+      <author></author>
+    </item>
+  </channel>
+</rss>

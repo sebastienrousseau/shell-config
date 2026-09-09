@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>shell-config</title>
+  <link href="https://sebastienrousseau.com/shell-config/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sebastienrousseau.com/shell-config"/>
+  <id>https://sebastienrousseau.com/shell-config</id>
+  <updated></updated>
+  <entry>
+    <title>Installation — @sebastienrousseau/shell-config</title>
+    <link href="https://sebastienrousseau.com/shell-config/installation/"/>
+    <id>https://sebastienrousseau.com/shell-config/installation/</id>
+    <updated></updated>
+    <published></published>
+    <summary>How to install and set up @sebastienrousseau/shell-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+  <entry>
+    <title>Model Context Protocol (MCP) — @sebastienrousseau/shell-config</title>
+    <link href="https://sebastienrousseau.com/shell-config/mcp/"/>
+    <id>https://sebastienrousseau.com/shell-config/mcp/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Model Context Protocol configuration for @sebastienrousseau/shell-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+  <entry>
+    <title>Reference — @sebastienrousseau/shell-config</title>
+    <link href="https://sebastienrousseau.com/shell-config/reference/"/>
+    <id>https://sebastienrousseau.com/shell-config/reference/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Reference specifications and options for @sebastienrousseau/shell-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+  <entry>
+    <title>Usage — @sebastienrousseau/shell-config</title>
+    <link href="https://sebastienrousseau.com/shell-config/usage/"/>
+    <id>https://sebastienrousseau.com/shell-config/usage/</id>
+    <updated></updated>
+    <published></published>
+    <summary>How to use and configure @sebastienrousseau/shell-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+</feed>

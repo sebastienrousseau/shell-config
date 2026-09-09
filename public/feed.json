@@ -1,0 +1,65 @@
+{
+  "feed_url": "https://sebastienrousseau.com/shell-config/feed.json",
+  "home_page_url": "https://sebastienrousseau.com/shell-config/",
+  "items": [
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "How to install and set up @sebastienrousseau/shell-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/shell-config/installation/",
+      "tags": [],
+      "title": "Installation — @sebastienrousseau/shell-config",
+      "url": "https://sebastienrousseau.com/shell-config/installation/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "Model Context Protocol configuration for @sebastienrousseau/shell-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/shell-config/mcp/",
+      "tags": [],
+      "title": "Model Context Protocol (MCP) — @sebastienrousseau/shell-config",
+      "url": "https://sebastienrousseau.com/shell-config/mcp/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "Reference specifications and options for @sebastienrousseau/shell-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/shell-config/reference/",
+      "tags": [],
+      "title": "Reference — @sebastienrousseau/shell-config",
+      "url": "https://sebastienrousseau.com/shell-config/reference/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "How to use and configure @sebastienrousseau/shell-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/shell-config/usage/",
+      "tags": [],
+      "title": "Usage — @sebastienrousseau/shell-config",
+      "url": "https://sebastienrousseau.com/shell-config/usage/"
+    }
+  ],
+  "language": "en-GB",
+  "title": "shell-config",
+  "version": "https://jsonfeed.org/version/1.1"
+}

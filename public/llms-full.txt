@@ -1,0 +1,5 @@
+# shell-config
+
+> Shareable Shell / Bash configuration providing standardized ShellCheck and shfmt rules adhering to modern 2026 standards.
+
+Language: en-GB
