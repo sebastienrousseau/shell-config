@@ -19,7 +19,9 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. .shellcheckrc
+
 Comprehensive ShellCheck configuration enforcing variable quoting, error exit checks, and portability. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 2. .shfmt
+
 Deterministic shfmt code formatting enforcing 2 spaces, switch case indentation, and binary operator alignment. Designed to guarantee deterministic behavior across all development and continuous integration environments.
