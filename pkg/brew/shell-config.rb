@@ -6,7 +6,7 @@
 class ShellConfig < Formula
   desc "Shareable Shell / Bash configuration providing standardized ShellCheck and shfmt rules adhering to modern 2026 standards"
   homepage "https://github.com/sebastienrousseau/shell-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/shell-config/-/shell-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/shell-config/-/shell-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
